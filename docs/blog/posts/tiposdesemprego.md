@@ -1,13 +1,11 @@
 ---
 date:
   created: 2025-05-06
-draft: true
+draft: false
 categories:
   - Atividade econômica
 tags:
-- Desemprego 
-- Ciclos econômicos  
-- Tecnologia
+- Atividade econômica
 ---
 
 # 📉 **Desemprego Estrutural vs. Conjuntural: Entenda as Diferenças**  
