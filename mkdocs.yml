@@ -1,0 +1,32 @@
+site_name: MacroConecta
+site_url: https://macroconecta.github.io/extensao
+site_author: Caio Gonçalves
+site_description: >-
+  Descrição para o site
+
+# Repository
+repo_name: macroconecta/extensao
+repo_url: https://github.com/macroconecta/extensao
+
+# Copyright
+copyright: Copyright &copy; 2025 Caio Gonçalves
+
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - navigation.sections
+
+# Plugins
+plugins:
+  - search
+  - meta
+  - blog:
+      archive_date_format: MMMM yyyy
+  - tags:
+      tags_file: blog/tags.md
+
+nav:
+    - Blog:
+        - blog/index.md
+        - Tags: blog/tags.md
