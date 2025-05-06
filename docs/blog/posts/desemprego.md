@@ -1,13 +1,12 @@
 ---
 date:
   created: 2025-05-07
-draft: true
+draft: false
 categories:
   - Mercado de Trabalho
 tags:
-- Trabalho
-- Desemprego  
-- Ocupação 
+- Mercado de Trabalho
+
 ---
 
 # 💼 **Mercado de trabalho: implicações e possíveis mudanças**

@@ -1,13 +1,11 @@
 ---
 date:
   created: 2025-05-08
-draft: true
+draft: false
 categories:
   - Crédito
 tags:
-- Política Monetária
-- Taxa Selic  
-- Banco Central
+- Crédito
 ---
 
 # 💰 **Como a Política Monetária afeta o crédito da população**

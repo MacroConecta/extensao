@@ -1,13 +1,11 @@
 ---
 date:
   created: 2025-05-05
-draft: true
+draft: false
 categories:
   - Economia internacional
 tags:
-- Guerras E Economia  
-- Impacto Macroeconômico  
-- Comércio Internacional 
+- Economia Internacional
 ---
 
 # 🌍 **O Impacto das Guerras no Sistema Financeiro e no Comércio Internacional**  
