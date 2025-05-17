@@ -89,6 +89,6 @@ Para manter e ampliar esses benefícios, é essencial que o país preserve a est
 
 ## Apresentação: resumo
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+<div style="padding-bottom: 56.25%; height: 0;">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCra1Faw-PSw4JAB9dQPzQrQdeZSD5eHbVqAh1IOQEk_nfJj4uW4RcW9QcyA5raUuLCWqQgetJZFKg/pubembed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
