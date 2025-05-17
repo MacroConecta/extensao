@@ -81,17 +81,14 @@ As Contas Externas de um país registram todas as transações econômicas entre
 - Químicos e Fertilizantes (China, Estados Unidos)
 - Petróleo e Derivados (Estados Unidos, China)
 
-## Apresentação Detalhada
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCra1Faw-PSw4JAB9dQPzQrQdeZSD5eHbVqAh1IOQEk_nfJj4uW4RcW9QcyA5raUuLCWqQgetJZFKg/pubembed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
-
-
 ## Considerações Finais
 
 As Contas Externas do Brasil em 2024 apresentam um quadro misto. O superávit comercial é um ponto forte, mas o déficit em conta corrente, financiado em grande parte pelo IDP, requer atenção. O IDP desempenha um papel fundamental na economia brasileira, trazendo recursos para o país, mas é essencial que o Brasil mantenha um ambiente econômico estável e seguro para atrair e manter esses investimentos a longo prazo.
 
 Para manter e ampliar esses benefícios, é essencial que o país preserve a estabilidade macroeconômica, a segurança jurídica e políticas que incentivem o investimento de longo prazo.
 
+## Apresentação: resumo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCra1Faw-PSw4JAB9dQPzQrQdeZSD5eHbVqAh1IOQEk_nfJj4uW4RcW9QcyA5raUuLCWqQgetJZFKg/pubembed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
