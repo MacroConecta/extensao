@@ -2,7 +2,7 @@ site_name: MacroConecta
 site_url: https://macroconecta.github.io/extensao
 site_author: Caio Gonçalves
 site_description: >-
-  Descrição para o site
+  Blog do Projeto de Extensão MacroConecta da disciplina de Contabilidade Social e Macroeconomia - Puc Minas - Ciências Econômicas - Lourdes
 
 # Repository
 repo_name: macroconecta/extensao
@@ -13,20 +13,98 @@ copyright: Copyright &copy; 2025 Caio Gonçalves
 
 theme:
   name: material
+  logo: assets/images/logo.svg
+  favicon: assets/images/logo.svg
+  language: pt-BR
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para modo escuro
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
     - content.code.copy
     - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - header.autohide
+    - navigation.instant
+    - navigation.footer
+    - content.action.edit
+    - content.action.view
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - assets/css/custom.css
 
 # Plugins
 plugins:
   - search
   - meta
   - blog:
+      blog_dir: .
+      blog_toc: true
+      post_dir: posts
+      post_date_format: long
+      post_url_format: "{date}/{slug}"
+      post_excerpt: required
+      post_excerpt_max_authors: 3
+      post_excerpt_separator: <!-- more -->
+      post_readtime: true
+      post_readtime_words_per_minute: 265
+      archive: true
+      archive_name: Arquivo
       archive_date_format: MMMM yyyy
+      archive_url_date_format: yyyy/MM
+      archive_url_format: "archive/{date}"
+      categories: true
+      categories_name: Categorias
+      categories_url_format: "category/{slug}"
+      authors: true
+      authors_file: .authors.yml
   - tags:
-      tags_file: blog/tags.md
+      tags_file: tags.md
 
 nav:
-    - Blog:
-        - blog/index.md
-        - Tags: blog/tags.md
+    - Início: index.md
+    - Tags: tags.md
+    - Sobre: sobre.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/macroconecta
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/macroconecta
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/macroconecta
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  consent:
+    title: Cookies
+    description: >-
+      Utilizamos cookies para reconhecer suas visitas repetidas e preferências, bem
+      como para medir a eficácia de nossa documentação e se os usuários
+      encontram o que estão procurando. Com seu consentimento, você está nos ajudando
+      a melhorar nossa documentação.

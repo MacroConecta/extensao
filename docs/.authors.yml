@@ -1,0 +1,151 @@
+authors:
+  caio_goncalves:
+    name: Caio Gonçalves
+    description: Professor de Economia
+    avatar: https://ui-avatars.com/api/?name=Caio+Gonçalves&background=4a9f8a&color=fff
+    url: "#"
+
+# # Alunos - 1º semestre 2025
+# # Grupo 1 - Economia Internacional  
+  antonio_fernando:
+    name: Antonio Fernando
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Antonio+Fernando&background=4a9f8a&color=fff
+    url: "#"
+  gabriel_bicalho: 
+    name: Gabriel Bicalho
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Gabriel+Bicalho&background=4a9f8a&color=fff
+    url: "#"
+  gabriel_fialho:
+    name: Gabriel Fialho
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Gabriel+Fialho&background=4a9f8a&color=fff
+    url: "#"
+  nicolas_alves:
+    name: Nicolas Alves
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Nicolas+Alves&background=4a9f8a&color=fff
+    url: "#"
+
+# # Grupo 2 -Atividade Econômica
+  camila_souto:
+    name: Camila Souto
+    description: Aluna de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Camila+Souto&background=4a9f8a&color=fff
+    url: "#"
+  danilo_lacerda:
+    name: Danilo Lacerda
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Danilo+Lacerda&background=4a9f8a&color=fff
+    url: "#"
+  gabriel_costa:
+    name: Gabriel Costa
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Gabriel+Costa&background=4a9f8a&color=fff
+    url: "#"
+  maria_rezende:
+    name: Maria Rezende
+    description: Aluna de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Maria+Rezende&background=4a9f8a&color=fff
+    url: "#"
+
+# # Grupo 3 - Mercado de Trabalho
+  esther_alves:
+    name: Esther Alves
+    description: Aluna de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Esther+Alves&background=4a9f8a&color=fff
+    url: "#"
+  gustavo_maia:
+    name: Gustavo Maia
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Gustavo+Maia&background=4a9f8a&color=fff
+    url: "#"
+  pablo_rodrigues:
+    name: Pablo Rodrigues
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Pablo+Rodrigues&background=4a9f8a&color=fff
+    url: "#"
+  stephany_carvalho:
+    name: Stephany Carvalho
+    description: Aluna de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Stephany+Carvalho&background=4a9f8a&color=fff
+    url: "#"
+  
+  # # Grupo 4 - Crédito
+  caio_guimaraes:
+    name: Caio Guimarães
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Caio+Guimarães&background=4a9f8a&color=fff
+    url: "#"
+  ludimilla_braga:
+    name: Ludimilla Braga
+    description: Aluna de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Ludimila+Braga&background=4a9f8a&color=fff
+    url: "#"
+
+  # # Grupo 5 - Fiscal
+  luiz_reis:
+    name: Luiz Reis
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Luiz+Reis&background=4a9f8a&color=fff
+    url: "#"
+  matheus_lacerda:
+    name: Matheus Lacerda
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Matheus+Lacerda&background=4a9f8a&color=fff
+    url: "#"
+  pedro_nesio:
+    name: Pedro Nésio
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Pedro+Nésio&background=4a9f8a&color=fff
+    url: "#"
+  pedro_azevedo:
+    name: Pedro Azevedo
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Pedro+Azevedo&background=4a9f8a&color=fff
+    url: "#"
+
+  # # Grupo 6 - Contas externas
+  alexandre_lima:  
+    name: Alexandre Lima
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Alexandre+Lima&background=4a9f8a&color=fff
+    url: "#"
+  artur_sales:
+    name: Artur Sales
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Artur+Sales&background=4a9f8a&color=fff
+    url: "#"
+  luca_pereira:
+    name: Luca Pereira
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Luca+Pereira&background=4a9f8a&color=fff
+    url: "#"
+  victor_leonel:
+    name: Victor Leonel
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Victor+Leonel&background=4a9f8a&color=fff
+    url: "#"
+
+# # Grupo 7 - Preços
+  esther_lima:
+    name: Esther Lima
+    description: Aluna de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Esther+Lima&background=4a9f8a&color=fff
+    url: "#"
+  lara_sobral:
+    name: Lara Sobral
+    description: Aluna de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Lara+Sobral&background=4a9f8a&color=fff
+    url: "#"
+  leonardo_araujo:
+    name: Leonardo Araújo
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Leonardo+Araújo&background=4a9f8a&color=fff
+    url: "#"
+  rafael_neder:
+    name: Rafael Neder
+    description: Aluno de Macroeconomia e Contabilidade Social
+    avatar: https://ui-avatars.com/api/?name=Rafael+Neder&background=4a9f8a&color=fff
+    url: "#"
