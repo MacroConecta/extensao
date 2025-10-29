@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ config.site_name }}</title>
+    <link rel="stylesheet" href="{{ 'assets/css/article.css' | url }}">
+</head>
+<body>
+    <article class="article-template">
+        <header class="article-header">
+            <div class="article-categories">
+                {% for category in page.meta.categories %}
+                <a href="{{ 'blog/categories/' | url }}{{ category | lower | replace(' ', '-') }}" class="article-category article-category--{% if loop.index <= 5 %}{{ loop.index }}{% else %}1{% endif %}">{{ category }}</a>
+                {% endfor %}
+            </div>
+            
+            <h1 class="article-title">{{ page.title }}</h1>
+            
+            <div class="article-meta">
+                <div class="article-date">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                    {% if page.meta.date.created %}
+                        {{ page.meta.date.created.strftime('%d de %B, %Y') | replace('January', 'Janeiro') | replace('February', 'Fevereiro') | replace('March', 'Março') | replace('April', 'Abril') | replace('May', 'Maio') | replace('June', 'Junho') | replace('July', 'Julho') | replace('August', 'Agosto') | replace('September', 'Setembro') | replace('October', 'Outubro') | replace('November', 'Novembro') | replace('December', 'Dezembro') }}
+                    {% endif %}
+                </div>
+                
+                {% if page.meta.readtime %}
+                <div class="article-reading-time">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                    {{ page.meta.readtime }} min de leitura
+                </div>
+                {% endif %}
+            </div>
+            
+            {% if page.meta.authors %}
+            <div class="article-authors">
+                {% for author_id in page.meta.authors %}
+                    {% set author = config.extra.authors[author_id] %}
+                    {% if author %}
+                    <div class="article-author">
+                        <img src="{{ author.avatar }}" alt="{{ author.name }}" class="article-author__avatar">
+                        <div class="article-author__info">
+                            <a href="{{ author.url }}" class="article-author__name">{{ author.name }}</a>
+                            <span class="article-author__role">{{ author.description }}</span>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            {% endif %}
+        </header>
+        
+        <div class="article-content">
+            {{ page.content }}
+        </div>
+        
+        <footer class="article-footer">
+            {% if page.meta.tags %}
+            <div class="article-tags">
+                {% for tag in page.meta.tags %}
+                <a href="{{ 'blog/tags/' | url }}{{ tag | lower | replace(' ', '-') }}" class="article-tag">#{{ tag }}</a>
+                {% endfor %}
+            </div>
+            {% endif %}
+            
+            {% if page.meta.authors and page.meta.authors[0] %}
+                {% set main_author_id = page.meta.authors[0] %}
+                {% set main_author = config.extra.authors[main_author_id] %}
+                {% if main_author %}
+                <div class="article-bio">
+                    <img src="{{ main_author.avatar }}" alt="{{ main_author.name }}" class="article-bio__avatar">
+                    <div class="article-bio__info">
+                        <h3 class="article-bio__name">{{ main_author.name }}</h3>
+                        <p class="article-bio__description">{{ main_author.description }}</p>
+                        <a href="{{ main_author.url }}" class="article-bio__link">
+                            Ver perfil
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                        </a>
+                    </div>
+                </div>
+                {% endif %}
+            {% endif %}
+        </footer>
+    </article>
+</body>
+</html>
