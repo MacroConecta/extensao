@@ -9,7 +9,7 @@ hide:
 
 ## O Projeto
 
-O MacroConecta é um projeto de extensão desenvolvido pelos alunos da disciplina de Contabilidade Social e Macroeconomia do Curso de Ciências Econômicas - PUC Minas - Lourdes. 
+O MacroConecta é um projeto de extensão desenvolvido pelos alunos das unidades curriculares Contabilidade Social e Macroeconomia do Curso de Ciências Econômicas da PUC Minas.
 
 ## Nossa Missão
 
@@ -21,7 +21,8 @@ O MacroConecta é fruto do trabalho colaborativo de estudantes do curso de Ciên
 
 ### Coordenação
 
-- **Prof. Caio Gonçalves** - Professor e coordenador do projeto
+- **Prof. Caio César Soares Gonçalves** - Professor e coordenador do projeto
+- **João Marcelo Figueiredo Leal** - Monitor da unidade curricular Macroeconomia e Contabilidade Social
 
 ## Contato
 
