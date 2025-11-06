@@ -52,6 +52,14 @@ O lixo misturado vai parar em **aterros ou lixões**, aumentando as emissões e 
 
 ## Reflexões e consequências
 
+O descarte irregular de lixo no Brasil causa sérios impactos ambientais e à saúde pública.
+
+Falta de educação ambiental e infraestrutura adequada agravam o problema.
+
+É essencial ampliar a coleta seletiva e incentivar a reciclagem.
+
+Políticas públicas e conscientização social são fundamentais para reduzir esse cenário.
+
 O baixo índice de reciclagem e o descarte incorreto de lixo revelam **falta de conscientização e infraestrutura**.  
 
 A poluição gerada reduz os recursos naturais e afeta diretamente a **qualidade de vida**.  
@@ -62,10 +70,10 @@ Esse cenário impacta o **IDHp**, demonstrando que o desenvolvimento humano sem 
 
 ---
 
-## Referências
+## Referências Bibliográficas
 
-- ABRELPE. *Índice de Reciclagem no Brasil é de 4%.* 2022.  
-- PODER360. *Brasil tem 40% do lixo descartado de forma inadequada.* 2024.  
-- AGÊNCIA BRASIL. *Brasil sobe 5 posições no ranking global de desenvolvimento humano.* 2025.  
-- ONU. *O que é o IDH.* Disponível em: [https://www.undp.org/pt/brazil/o-que-e-o-idh](https://www.undp.org/pt/brazil/o-que-e-o-idh)  
-- PNUD. *Planetary Pressures–Adjusted Human Development Index.* Disponível em: [https://hdr.undp.org/planetary-pressures-adjusted-human-development-index#/indicies/PHDI](https://hdr.undp.org/planetary-pressures-adjusted-human-development-index#/indicies/PHDI)  
+- ABRELPE. *Índice de Reciclagem no Brasil é de 4%.* 2022. [https://agenciabrasil.ebc.com.br/geral/noticia/2022-06/indice-de-reciclagem-no-brasil-e-de-4-diz-abrelpe]
+- PODER360. *Brasil tem 40% do lixo descartado de forma inadequada.* 2024. [https://www.poder360.com.br/poder-infra/brasil-tem-40-do-lixo-descartado-de-forma-inadequada/]
+- AGÊNCIA BRASIL. *Brasil sobe 5 posições no ranking global de desenvolvimento humano.* 2025. [https://agenciabrasil.ebc.com.br/economia/noticia/2025-05/brasil-sobe-cinco-posicoes-no-ranking-do-idh-e-esta-na-84a-colocacao]
+- _ONU._ *O que é o IDH.* Disponível em: [https://www.undp.org/pt/brazil/o-que-e-o-idh](https://www.undp.org/pt/brazil/o-que-e-o-idh)  
+- _PNUD._ *Planetary Pressures–Adjusted Human Development Index.* Disponível em: [https://hdr.undp.org/planetary-pressures-adjusted-human-development-index#/indicies/PHDI](https://hdr.undp.org/planetary-pressures-adjusted-human-development-index#/indicies/PHDI)  
